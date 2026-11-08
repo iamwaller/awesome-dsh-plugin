@@ -1,0 +1,8 @@
+# iamwaller__dsh-usage-spend.yml
+url: https://github.com/iamwaller/dsh-usage-spend
+name: iamwaller/dsh-usage-spend
+category: usage
+description:
+  en: 'Shows session token usage and estimated spend under the composer at DeepSeek peak and off-peak rates, appends the amount to the built-in per-turn usage action, and adds a settings form for currency and exchange rate.'
+  zh: '在会话底部显示 token 用量与估算花费，按官方峰谷价计价；每轮用量按钮附带金额，并可在插件页配置币种与汇率。'
+icon: https://raw.githubusercontent.com/iamwaller/dsh-usage-spend/main/assets/icon-512.png
